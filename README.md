@@ -36,5 +36,8 @@ To get the proj inside of the directory
 dotnet new clean-arch -o NimblePros.DotNetConf
 
 TODO:
+
 study https://github.com/dotnet-architecture/eShopOnWeb
+      https://www.youtube.com/watch?v=vRZ8ucGac8M
+
 study https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
