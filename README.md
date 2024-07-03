@@ -25,3 +25,12 @@ Clean architecture in order to free architecture from the implementation of the 
 
 Following this tutorial https://learn.microsoft.com/en-us/shows/dotnetconf-2021/clean-architecture-with-aspnet-core-6
 Code from https://github.com/ardalis/CleanArchitecture
+
+To install the template
+dotnet new --install Ardalis.CleanArchitecture.Template::6.0.4
+
+To check installed templates
+dotnet new list
+
+To get the proj inside of the directory
+dotnet new clean-arch -o NimblePros.DotNetConf
